@@ -1,0 +1,6 @@
+{
+  "name": "MM Studio - Graphic Design & Direct Order Management",
+  "description": "Professional graphic design portfolio for MM Studio featuring direct booking, 30% advance payments (bKash/Nagad/Bank), real-time order lifecycle tracking, branded PDF invoices, and full A-to-Z Admin site customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
